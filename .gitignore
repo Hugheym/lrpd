@@ -169,3 +169,12 @@ fabric.properties
 # *.ipr
 
 # End of https://www.gitignore.io/api/windows,python,pycharm
+
+
+.spyderworkspace
+*.jpeg
+*.JPEG
+*.png
+*.jpg
+*.JPG
+*.png
